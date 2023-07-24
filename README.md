@@ -1,6 +1,6 @@
 # My Resume ✨
 
-This is my resume, created using HTML and CSS. You can view it live [here](https://nitesh-daga.github.io/).
+This is my resume, created using HTML and CSS. You can view it live [here](https://daganitesh.github.io/).
 
 ## About ℹ️
 
@@ -12,7 +12,7 @@ By utilizing HTML and CSS, I have complete control over the layout, formatting, 
 
 ## View My Resume 👀
 
-To have a closer look at my resume, please visit the live version [here](https://nitesh-daga.github.io/). Feel free to explore and navigate through the sections to get a comprehensive understanding of my professional profile.
+To have a closer look at my resume, please visit the live version [here](https://daganitesh.github.io/). Feel free to explore and navigate through the sections to get a comprehensive understanding of my professional profile.
 
 Fun Fact: The resume also supports dark mode. Feel free to toggle the dark mode switch to see the alternative color scheme. 🌙
 
